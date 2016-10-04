@@ -20,11 +20,3 @@ In this project, you'll practice going the last mile to really make your page yo
 Write additional CSS rules in `additional_styles.css` and apply them to your elements. You may have to add additional `div`s or other elements to your HTML as well.
 
 It takes surprisingly few lines of custom CSS to match our target.
-
-## Resources:
-
- - [Official Bootstrap documentation](http://getbootstrap.com/css/)
- - [Shoelace.io](http://shoelace.io/)
- - [Bootswatch](https://bootswatch.com/)
- - [Bootstrap Live Customizer](http://bootstrap-live-customizer.com/)
- - [WrapBootstrap](https://wrapbootstrap.com/)
