@@ -6,10 +6,10 @@ In this project, we'll practice using Bootstrap and layering on our own addition
 
 ## Setup
 
- 1. Click the "Clone or download" button.
- 1. Select "Download ZIP".
- 1. Extract and open the entire folder in Atom.
+ 1. Follow [this guide](https://gist.github.com/raghubetina/22186869342fce3bec6b) to fork and clone this project.
+ 1. Open the entire folder in Atom.
  1. Open landing.html in Chrome.
+ 1. Commit and Sync your work often as you go along, and once you are finished.
 
 ## Suggested Steps
 
